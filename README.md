@@ -5,8 +5,11 @@ we created a user-friendly app that provides personalized financial guidance by:
 
 	1. Savings Calculator: Calculates savings based on user inputs like salary, marital status,
   	tax obligations, and risk level.​
+   
 	2. Investment Recommendations: Suggests tailored plans for shares, mutual funds, FDs, and bonds.​
+ 
 	3. Chatbot: Answers FinTech queries and provides financial education.​
+ 
 	4. Real-time Insights: Displays top investment plans and news to keep users informed.
 ---
 - ## Sign-in
