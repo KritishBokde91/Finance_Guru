@@ -1,6 +1,15 @@
 # Finance_guru
 Recommend you to Zoom out the Screen by pressing Crtl + "-" to have the best experience io the UI
 # UI Design of the Fiance Guru 
+we created a user-friendly app that provides personalized financial guidance by:​
+
+	1. Savings Calculator: Calculates savings based on user inputs like salary, marital status, tax obligations, and risk level.​
+
+	2. Investment Recommendations: Suggests tailored plans for shares, mutual funds, FDs, and bonds.​
+
+	3. Chatbot: Answers FinTech queries and provides financial education.​
+
+	4. Real-time Insights: Displays top investment plans and news to keep users informed.
 ---
 ## Sign-in
 <img src="./Sign-in.png" alt="Project Screenshot" width="500"/>
@@ -11,10 +20,10 @@ Recommend you to Zoom out the Screen by pressing Crtl + "-" to have the best exp
 ## Dashboard 
 <img src="./Dashboard.png" alt="Project Screenshot" width="500"/>
 
-## Recommendation UI 
+## Our Savings Calculator
 <img src="./Status.png" alt="Project Screenshot" width="500"/>
 
-## Chart Bot 
+## Ask Guru (Chart Bot)
 <img src="./Our chart bot.png" alt="Project Screenshot" width="500"/>
 
 ## Profile Page
