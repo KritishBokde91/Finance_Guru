@@ -1,5 +1,5 @@
 # Finance_guru
-Recommend you to Zoom out the Screen by pressing Crtl + "-" to have the best experience io the UI
+I recommend you to Zoom out the Screen by pressing Crtl + "-" to have the best experience on the UI
 # UI Design of the Fiance Guru 
 we created a user-friendly app that provides personalized financial guidance by:​
 
