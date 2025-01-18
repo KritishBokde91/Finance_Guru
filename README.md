@@ -1,17 +1,24 @@
-# finance_guru
-
-Finance Guru
-
+# Finance_guru
+Recommend you to Zoom out the Screen by pressing Crtl + "-" to have the best experience io the UI
 # UI Design of the Fiance Guru 
 ---
 ## Sign-in
-
 <img src="./Sign-in.png" alt="Project Screenshot" width="500"/>
-<img src="./Dashboard.png" alt="Project Screenshot" width="500"/>
-<img src="./Satuts.png" alt="Project Screenshot" width="500"/>
-<img src="./Our chart bot.png" alt="Project Screenshot" width="500"/>
-<img src="./Profile-page.png" alt="Project Screenshot" width="500"/>
+
+## Landing Page
 <img src="./Landing.png" alt="Project Screenshot" width="500"/>
+
+## Dashboard 
+<img src="./Dashboard.png" alt="Project Screenshot" width="500"/>
+
+## Recommendation UI 
+<img src="./Status.png" alt="Project Screenshot" width="500"/>
+
+## Chart Bot 
+<img src="./Our chart bot.png" alt="Project Screenshot" width="500"/>
+
+## Profile Page
+<img src="./Profile-page.png" alt="Project Screenshot" width="500"/>
 
 
 
