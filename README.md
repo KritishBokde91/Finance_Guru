@@ -21,7 +21,7 @@ we created a user-friendly app that provides personalized financial guidance by:
 - ## Dashboard 
 <img src="./Dashboard.png" alt="Project Screenshot" width="500"/>
 
-- ## Our Savings Calculator
+- ## Our Recommendation UI
 <img src="./Status.png" alt="Project Screenshot" width="500"/>
 
 - ## Ask Guru (Chart Bot)
