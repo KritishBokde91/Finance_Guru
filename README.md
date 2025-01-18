@@ -5,6 +5,8 @@ Finance Guru
 # UI Design of the Fiance Guru 
 ---
 ## Sign-in
+![Alt Text](./sign-in.png)
+
 
 
 
