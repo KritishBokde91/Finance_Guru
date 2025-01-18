@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777264659067",
+    "project_id": "finance-guru-38410",
+    "storage_bucket": "finance-guru-38410.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777264659067:android:c4056e17655af9ad0180de",
+        "android_client_info": {
+          "package_name": "com.example.finance_guru"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6HjWixcv116wZIUj3s3zZ2k4lDCQhG8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
