@@ -5,7 +5,13 @@ Finance Guru
 # UI Design of the Fiance Guru 
 ---
 ## Sign-in
-![Alt Text](./sign-in.png)
+
+<img src="./Sign-in.png" alt="Project Screenshot" width="500"/>
+<img src="./Dashboard.png" alt="Project Screenshot" width="500"/>
+<img src="./Satuts.png" alt="Project Screenshot" width="500"/>
+<img src="./Our chart bot.png" alt="Project Screenshot" width="500"/>
+<img src="./Profile-page.png" alt="Project Screenshot" width="500"/>
+<img src="./Landing.png" alt="Project Screenshot" width="500"/>
 
 
 
